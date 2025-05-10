@@ -1,0 +1,10 @@
+# macOS 쓰레기
+.DS_Store
+
+# VS Code 설정
+.vscode/
+
+# 바이너리 파일
+*.out
+*.exe
+calculator
