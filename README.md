@@ -1,2 +1,4 @@
 # powerCalculator
-Simple power calculator which calculates power, and rates based on voltage and current input
+
+## Project Introduction
+It calculates power and rates based on input voltage and current
